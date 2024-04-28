@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f324e32ef4d74f22b9a87927944e5170/artifacts
+end_time: 1714338240272
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f324e32ef4d74f22b9a87927944e5170
+run_name: brawny-mink-252
+run_uuid: f324e32ef4d74f22b9a87927944e5170
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714338229103
+status: 4
+tags: []
+user_id: lneillwgu

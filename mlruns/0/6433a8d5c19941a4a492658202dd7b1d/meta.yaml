@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6433a8d5c19941a4a492658202dd7b1d/artifacts
+end_time: 1714338676107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6433a8d5c19941a4a492658202dd7b1d
+run_name: rare-wolf-968
+run_uuid: 6433a8d5c19941a4a492658202dd7b1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714338664826
+status: 4
+tags: []
+user_id: lneillwgu

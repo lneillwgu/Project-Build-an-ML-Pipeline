@@ -1,0 +1,13 @@
+2024-04-28 15:59:06,653 Downloading artifacts
+[34m[1mwandb[39m[22m:   5 of 5 files downloaded.
+2024-04-28 15:59:07,904 Loading model and performing inference on test set
+Traceback (most recent call last):
+  File "/home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/components/test_regression_model/run.py", line 73, in <module>
+    go(args)
+  File "/home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/components/test_regression_model/run.py", line 37, in go
+    sk_pipe = mlflow.sklearn.load_model(model_local_path)
+  File "/home/lneillwgu/miniconda3/envs/mlflow-c783dc507c6bedc1b58f0a87f952c3c2d2f33013/lib/python3.9/site-packages/mlflow/sklearn/__init__.py", line 594, in load_model
+    return _load_model_from_local_file(
+  File "/home/lneillwgu/miniconda3/envs/mlflow-c783dc507c6bedc1b58f0a87f952c3c2d2f33013/lib/python3.9/site-packages/mlflow/sklearn/__init__.py", line 460, in _load_model_from_local_file
+    return cloudpickle.load(f)
+AttributeError: Can't get attribute '_function_setstate' on <module 'cloudpickle.cloudpickle' from '/home/lneillwgu/miniconda3/envs/mlflow-c783dc507c6bedc1b58f0a87f952c3c2d2f33013/lib/python3.9/site-packages/cloudpickle/cloudpickle.py'>

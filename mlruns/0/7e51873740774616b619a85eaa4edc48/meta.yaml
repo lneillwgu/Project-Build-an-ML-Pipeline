@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7e51873740774616b619a85eaa4edc48/artifacts
+end_time: 1714338917301
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e51873740774616b619a85eaa4edc48
+run_name: honorable-ant-378
+run_uuid: 7e51873740774616b619a85eaa4edc48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714338865013
+status: 3
+tags: []
+user_id: lneillwgu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/03218de76b4042bd9097ef63afc8cb9d/artifacts
+end_time: 1714338675925
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03218de76b4042bd9097ef63afc8cb9d
+run_name: resilient-hawk-631
+run_uuid: 03218de76b4042bd9097ef63afc8cb9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714338666711
+status: 4
+tags: []
+user_id: lneillwgu
