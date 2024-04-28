@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7160ff238e0449e09e850409ffb21b8e/artifacts
+end_time: 1714319289496
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7160ff238e0449e09e850409ffb21b8e
+run_name: auspicious-koi-643
+run_uuid: 7160ff238e0449e09e850409ffb21b8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714319282247
+status: 3
+tags: []
+user_id: lneillwgu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f55fc36470d54289bddb475ace7efa10/artifacts
+end_time: 1714319189530
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f55fc36470d54289bddb475ace7efa10
+run_name: able-chimp-356
+run_uuid: f55fc36470d54289bddb475ace7efa10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714319154582
+status: 4
+tags: []
+user_id: lneillwgu

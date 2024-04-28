@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4f9a1c6b75ce4a22bf39166d37be0d31/artifacts
+end_time: 1714317841657
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f9a1c6b75ce4a22bf39166d37be0d31
+run_name: placid-kite-436
+run_uuid: 4f9a1c6b75ce4a22bf39166d37be0d31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714317838914
+status: 4
+tags: []
+user_id: lneillwgu

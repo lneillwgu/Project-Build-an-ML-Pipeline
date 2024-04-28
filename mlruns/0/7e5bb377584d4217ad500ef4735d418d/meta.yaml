@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7e5bb377584d4217ad500ef4735d418d/artifacts
+end_time: 1714318032632
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e5bb377584d4217ad500ef4735d418d
+run_name: secretive-carp-561
+run_uuid: 7e5bb377584d4217ad500ef4735d418d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714318017801
+status: 3
+tags: []
+user_id: lneillwgu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/524df2643b1245449a1d0ff2ee27acc0/artifacts
+end_time: 1714319189315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 524df2643b1245449a1d0ff2ee27acc0
+run_name: intelligent-ox-612
+run_uuid: 524df2643b1245449a1d0ff2ee27acc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714319156224
+status: 4
+tags: []
+user_id: lneillwgu

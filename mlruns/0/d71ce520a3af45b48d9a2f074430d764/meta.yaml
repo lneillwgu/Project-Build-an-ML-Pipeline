@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d71ce520a3af45b48d9a2f074430d764/artifacts
+end_time: 1714317841443
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d71ce520a3af45b48d9a2f074430d764
+run_name: bustling-kite-314
+run_uuid: d71ce520a3af45b48d9a2f074430d764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714317840627
+status: 4
+tags: []
+user_id: lneillwgu

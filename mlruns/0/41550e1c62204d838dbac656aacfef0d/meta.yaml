@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/41550e1c62204d838dbac656aacfef0d/artifacts
+end_time: 1714316874806
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41550e1c62204d838dbac656aacfef0d
+run_name: valuable-sow-388
+run_uuid: 41550e1c62204d838dbac656aacfef0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714316772411
+status: 3
+tags: []
+user_id: lneillwgu

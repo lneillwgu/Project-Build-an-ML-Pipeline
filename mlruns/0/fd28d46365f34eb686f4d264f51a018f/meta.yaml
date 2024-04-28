@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fd28d46365f34eb686f4d264f51a018f/artifacts
+end_time: 1714317746660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd28d46365f34eb686f4d264f51a018f
+run_name: casual-calf-533
+run_uuid: fd28d46365f34eb686f4d264f51a018f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714317725273
+status: 4
+tags: []
+user_id: lneillwgu

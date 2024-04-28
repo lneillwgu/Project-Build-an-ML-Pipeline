@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/519680a28fae45ad8f9b1e441b38678a/artifacts
+end_time: 1714317924204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 519680a28fae45ad8f9b1e441b38678a
+run_name: unruly-chimp-673
+run_uuid: 519680a28fae45ad8f9b1e441b38678a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714317921532
+status: 4
+tags: []
+user_id: lneillwgu

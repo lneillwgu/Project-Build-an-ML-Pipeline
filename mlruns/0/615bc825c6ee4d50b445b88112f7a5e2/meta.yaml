@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/615bc825c6ee4d50b445b88112f7a5e2/artifacts
+end_time: 1714317746873
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 615bc825c6ee4d50b445b88112f7a5e2
+run_name: gaudy-doe-22
+run_uuid: 615bc825c6ee4d50b445b88112f7a5e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714317723632
+status: 4
+tags: []
+user_id: lneillwgu
