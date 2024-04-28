@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6d38e841192e4cc4b0e22b7bedfd331f/artifacts
+end_time: 1714339545176
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d38e841192e4cc4b0e22b7bedfd331f
+run_name: smiling-cod-21
+run_uuid: 6d38e841192e4cc4b0e22b7bedfd331f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714339533505
+status: 3
+tags: []
+user_id: lneillwgu

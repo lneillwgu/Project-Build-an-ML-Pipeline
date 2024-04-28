@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e26dc6114ee444fc97ef6780e43bc3ed/artifacts
+end_time: 1714339556920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e26dc6114ee444fc97ef6780e43bc3ed
+run_name: popular-vole-904
+run_uuid: e26dc6114ee444fc97ef6780e43bc3ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714339545192
+status: 3
+tags: []
+user_id: lneillwgu

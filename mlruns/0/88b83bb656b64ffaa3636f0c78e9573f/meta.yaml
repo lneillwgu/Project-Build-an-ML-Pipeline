@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/88b83bb656b64ffaa3636f0c78e9573f/artifacts
+end_time: 1714339565747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88b83bb656b64ffaa3636f0c78e9573f
+run_name: able-sloth-92
+run_uuid: 88b83bb656b64ffaa3636f0c78e9573f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714339530040
+status: 4
+tags: []
+user_id: lneillwgu
