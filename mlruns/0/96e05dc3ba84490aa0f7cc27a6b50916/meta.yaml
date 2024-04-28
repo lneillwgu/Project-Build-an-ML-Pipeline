@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/96e05dc3ba84490aa0f7cc27a6b50916/artifacts
+end_time: 1714339807306
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96e05dc3ba84490aa0f7cc27a6b50916
+run_name: dapper-dove-253
+run_uuid: 96e05dc3ba84490aa0f7cc27a6b50916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714339797809
+status: 3
+tags: []
+user_id: lneillwgu

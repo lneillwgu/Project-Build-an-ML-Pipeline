@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6c8cb20960c04be3b757daae36157dc8/artifacts
+end_time: 1714339980117
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c8cb20960c04be3b757daae36157dc8
+run_name: unique-donkey-55
+run_uuid: 6c8cb20960c04be3b757daae36157dc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714339794218
+status: 3
+tags: []
+user_id: lneillwgu

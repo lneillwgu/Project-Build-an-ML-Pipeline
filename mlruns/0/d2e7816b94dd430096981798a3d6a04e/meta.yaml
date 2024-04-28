@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d2e7816b94dd430096981798a3d6a04e/artifacts
+end_time: 1714339830174
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2e7816b94dd430096981798a3d6a04e
+run_name: skittish-panda-500
+run_uuid: d2e7816b94dd430096981798a3d6a04e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714339821811
+status: 3
+tags: []
+user_id: lneillwgu
