@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f4b5ffd7d0c048aba5305fd4beebe263/artifacts
+end_time: 1714334377473
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4b5ffd7d0c048aba5305fd4beebe263
+run_name: trusting-panda-759
+run_uuid: f4b5ffd7d0c048aba5305fd4beebe263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714334364504
+status: 4
+tags: []
+user_id: lneillwgu

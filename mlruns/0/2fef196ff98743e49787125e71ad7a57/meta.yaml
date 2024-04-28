@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2fef196ff98743e49787125e71ad7a57/artifacts
+end_time: 1714333725302
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fef196ff98743e49787125e71ad7a57
+run_name: valuable-carp-436
+run_uuid: 2fef196ff98743e49787125e71ad7a57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714333712821
+status: 4
+tags: []
+user_id: lneillwgu

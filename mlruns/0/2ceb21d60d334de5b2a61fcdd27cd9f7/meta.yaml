@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2ceb21d60d334de5b2a61fcdd27cd9f7/artifacts
+end_time: 1714331994915
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ceb21d60d334de5b2a61fcdd27cd9f7
+run_name: chill-goat-858
+run_uuid: 2ceb21d60d334de5b2a61fcdd27cd9f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714331920047
+status: 4
+tags: []
+user_id: lneillwgu

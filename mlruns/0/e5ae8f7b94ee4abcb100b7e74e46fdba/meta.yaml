@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e5ae8f7b94ee4abcb100b7e74e46fdba/artifacts
+end_time: 1714333666976
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5ae8f7b94ee4abcb100b7e74e46fdba
+run_name: rare-gnu-843
+run_uuid: e5ae8f7b94ee4abcb100b7e74e46fdba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714333654081
+status: 4
+tags: []
+user_id: lneillwgu

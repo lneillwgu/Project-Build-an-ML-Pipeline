@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e4934db20928420a9aa6da85291cd0c8/artifacts
+end_time: 1714333725119
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4934db20928420a9aa6da85291cd0c8
+run_name: beautiful-toad-795
+run_uuid: e4934db20928420a9aa6da85291cd0c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714333714472
+status: 4
+tags: []
+user_id: lneillwgu

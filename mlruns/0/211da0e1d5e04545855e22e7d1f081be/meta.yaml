@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/211da0e1d5e04545855e22e7d1f081be/artifacts
+end_time: 1714321012647
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 211da0e1d5e04545855e22e7d1f081be
+run_name: tasteful-donkey-631
+run_uuid: 211da0e1d5e04545855e22e7d1f081be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714320998127
+status: 3
+tags: []
+user_id: lneillwgu

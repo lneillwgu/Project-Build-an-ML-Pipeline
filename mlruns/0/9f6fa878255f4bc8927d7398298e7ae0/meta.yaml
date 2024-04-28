@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9f6fa878255f4bc8927d7398298e7ae0/artifacts
+end_time: 1714320873777
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f6fa878255f4bc8927d7398298e7ae0
+run_name: invincible-ray-903
+run_uuid: 9f6fa878255f4bc8927d7398298e7ae0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714320817321
+status: 4
+tags: []
+user_id: lneillwgu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/15e1ffa112a444099c8579ee70c222c9/artifacts
+end_time: 1714321012773
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15e1ffa112a444099c8579ee70c222c9
+run_name: capable-mole-82
+run_uuid: 15e1ffa112a444099c8579ee70c222c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714320996480
+status: 3
+tags: []
+user_id: lneillwgu

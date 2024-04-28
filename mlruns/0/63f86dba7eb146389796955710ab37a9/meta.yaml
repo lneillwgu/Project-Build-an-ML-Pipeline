@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/63f86dba7eb146389796955710ab37a9/artifacts
+end_time: 1714336301113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63f86dba7eb146389796955710ab37a9
+run_name: able-pug-800
+run_uuid: 63f86dba7eb146389796955710ab37a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714336279077
+status: 4
+tags: []
+user_id: lneillwgu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/73fcc29d26da452da2b18487439b2c49/artifacts
+end_time: 1714334624517
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73fcc29d26da452da2b18487439b2c49
+run_name: rare-duck-575
+run_uuid: 73fcc29d26da452da2b18487439b2c49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714334611600
+status: 4
+tags: []
+user_id: lneillwgu

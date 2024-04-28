@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/568feaca525445f4be43d46e929c906a/artifacts
+end_time: 1714336387506
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 568feaca525445f4be43d46e929c906a
+run_name: tasteful-shrew-365
+run_uuid: 568feaca525445f4be43d46e929c906a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714336354546
+status: 3
+tags: []
+user_id: lneillwgu

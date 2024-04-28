@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/275595510616409587dbce62479bc3ec/artifacts
+end_time: 1714334334258
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 275595510616409587dbce62479bc3ec
+run_name: glamorous-foal-818
+run_uuid: 275595510616409587dbce62479bc3ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714334331246
+status: 4
+tags: []
+user_id: lneillwgu

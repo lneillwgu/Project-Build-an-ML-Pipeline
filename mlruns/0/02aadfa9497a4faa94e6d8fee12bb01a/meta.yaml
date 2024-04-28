@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/02aadfa9497a4faa94e6d8fee12bb01a/artifacts
+end_time: 1714334334071
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02aadfa9497a4faa94e6d8fee12bb01a
+run_name: wise-sow-187
+run_uuid: 02aadfa9497a4faa94e6d8fee12bb01a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714334333252
+status: 4
+tags: []
+user_id: lneillwgu

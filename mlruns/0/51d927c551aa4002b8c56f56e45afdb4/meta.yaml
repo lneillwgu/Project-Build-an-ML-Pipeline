@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/51d927c551aa4002b8c56f56e45afdb4/artifacts
+end_time: 1714333429753
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51d927c551aa4002b8c56f56e45afdb4
+run_name: exultant-tern-956
+run_uuid: 51d927c551aa4002b8c56f56e45afdb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714333416290
+status: 4
+tags: []
+user_id: lneillwgu

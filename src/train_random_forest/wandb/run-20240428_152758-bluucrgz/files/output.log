@@ -1,0 +1,9 @@
+2024-04-28 15:28:00,781 Minimum price: 10, Maximum price: 350
+2024-04-28 15:28:00,790 Preparing sklearn pipeline
+2024-04-28 15:28:00,790 Fitting
+2024-04-28 15:28:12,847 Scoring
+2024-04-28 15:28:12,968 Score: 0.5339406885517419
+2024-04-28 15:28:12,969 MAE: 33.565065789473685
+2024-04-28 15:28:12,969 Exporting model
+/home/lneillwgu/miniconda3/envs/mlflow-f553ec3597c48806684abb48e12a739e700f6476/lib/python3.9/site-packages/mlflow/types/utils.py:394: UserWarning: Hint: Inferred schema contains integer column(s). Integer columns in Python cannot represent missing values. If your input data contains missing values at inference time, it will be encoded as floats and will cause a schema enforcement error. The best way to avoid this problem is to infer the model schema based on a realistic data sample (training dataset) that includes missing values. Alternatively, you can declare integer columns as doubles (float64) whenever these columns may have missing values. See `Handling Integers With Missing Values <https://www.mlflow.org/docs/latest/models.html#handling-integers-with-missing-values>`_ for more details.
+  warnings.warn(

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7f777c9b5b814ca1aa95cfd753dad425/artifacts
+end_time: 1714335106831
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f777c9b5b814ca1aa95cfd753dad425
+run_name: resilient-fly-334
+run_uuid: 7f777c9b5b814ca1aa95cfd753dad425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714335104633
+status: 4
+tags: []
+user_id: lneillwgu

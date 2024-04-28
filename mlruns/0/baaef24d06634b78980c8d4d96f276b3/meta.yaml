@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/baaef24d06634b78980c8d4d96f276b3/artifacts
+end_time: 1714336602641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: baaef24d06634b78980c8d4d96f276b3
+run_name: thundering-rat-193
+run_uuid: baaef24d06634b78980c8d4d96f276b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714336352337
+status: 3
+tags: []
+user_id: lneillwgu

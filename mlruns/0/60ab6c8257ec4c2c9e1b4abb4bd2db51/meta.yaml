@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/60ab6c8257ec4c2c9e1b4abb4bd2db51/artifacts
+end_time: 1714336097413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60ab6c8257ec4c2c9e1b4abb4bd2db51
+run_name: dapper-shoat-823
+run_uuid: 60ab6c8257ec4c2c9e1b4abb4bd2db51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714336073023
+status: 4
+tags: []
+user_id: lneillwgu

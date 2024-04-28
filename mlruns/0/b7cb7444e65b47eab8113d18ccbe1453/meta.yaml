@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b7cb7444e65b47eab8113d18ccbe1453/artifacts
+end_time: 1714333633824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7cb7444e65b47eab8113d18ccbe1453
+run_name: unequaled-rat-766
+run_uuid: b7cb7444e65b47eab8113d18ccbe1453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714333633006
+status: 4
+tags: []
+user_id: lneillwgu

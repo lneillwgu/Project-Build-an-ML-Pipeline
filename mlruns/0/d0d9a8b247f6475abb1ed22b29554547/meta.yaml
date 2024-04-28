@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d0d9a8b247f6475abb1ed22b29554547/artifacts
+end_time: 1714332266975
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0d9a8b247f6475abb1ed22b29554547
+run_name: nebulous-sponge-469
+run_uuid: d0d9a8b247f6475abb1ed22b29554547
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714332254023
+status: 4
+tags: []
+user_id: lneillwgu

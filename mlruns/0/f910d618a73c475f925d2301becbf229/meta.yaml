@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f910d618a73c475f925d2301becbf229/artifacts
+end_time: 1714336602502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f910d618a73c475f925d2301becbf229
+run_name: zealous-duck-269
+run_uuid: f910d618a73c475f925d2301becbf229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714336493558
+status: 3
+tags: []
+user_id: lneillwgu

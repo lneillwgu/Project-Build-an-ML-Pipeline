@@ -1,0 +1,140 @@
+{
+    "os": "Linux-5.15.146.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.9.19",
+    "heartbeatAt": "2024-04-28T19:43:41.865749",
+    "startedAt": "2024-04-28T19:43:41.453776",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--trainval_artifact",
+        "trainval_data.csv:latest",
+        "--val_size",
+        "0.2",
+        "--random_seed",
+        "42",
+        "--stratify_by",
+        "neighbourhood_group",
+        "--rf_config",
+        "/home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/multirun/2024-04-28/14-43-37/0/rf_config.json",
+        "--max_tfidf_features",
+        "5",
+        "--output_artifact",
+        "random_forest_export"
+    ],
+    "state": "running",
+    "program": "/home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py",
+    "codePath": "src/train_random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/lneillwgu/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "181869abe9230e9d54fb9e385e554aec42b91afc"
+    },
+    "email": "lneill4@wgu.edu",
+    "root": "/home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter",
+    "host": "LindseysLaptop",
+    "username": "lneillwgu",
+    "executable": "/home/lneillwgu/miniconda3/envs/mlflow-f553ec3597c48806684abb48e12a739e700f6476/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2304.002,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2304.002,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.002,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.002,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.002,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.002,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.002,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.002,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.002,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.002,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.002,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.002,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.002,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.002,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.002,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.002,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.002,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1006.853931427002,
+        "used": 41.32581329345703
+    },
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 15.44571304321289
+    }
+}

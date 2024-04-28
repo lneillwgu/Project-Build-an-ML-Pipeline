@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/project/Project-Build-an-ML-Pipeline-Starter/mlruns/0/77221a1627504160b219437b8eef7deb/artifacts
+end_time: 1714333429549
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77221a1627504160b219437b8eef7deb
+run_name: clean-ram-263
+run_uuid: 77221a1627504160b219437b8eef7deb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714333418306
+status: 4
+tags: []
+user_id: lneillwgu
